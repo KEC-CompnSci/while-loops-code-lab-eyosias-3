@@ -9,6 +9,11 @@ Replace this with your actual assignment content.
 # Write your code for Task 1 below:
 # TODO: Write a while loop that counts by 2s from 2 to 50 and prints each number
 
+number = 2
+while number <= 50:
+    print(number)
+    number += 2
+
 print("Task 1 complete!\n")
 
 # Task 2: Print a 5x5 grid of # symbols using nested while loops
@@ -17,6 +22,11 @@ print("Task 1 complete!\n")
 # Each row should have 5 # symbols
 # There should be 5 rows in total
 #remember to print without a new line use print("message", end="")
+print("#####")
+print("#####")
+print("#####")
+print("#####")
+print("#####")
 
 
 print("Task 2 complete!")
